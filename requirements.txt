@@ -1,0 +1,8 @@
+streamlit
+streamlit-lottie
+streamlit-webrtc
+python-dotenv
+langchain-cohere
+vosk
+sounddevice
+pyttsx3
