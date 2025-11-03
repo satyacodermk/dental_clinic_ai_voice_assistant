@@ -15,7 +15,7 @@ def execute_query(query: str):
     Returns:
         list[tuple] | None: Results for SELECT queries, otherwise None.
     """
-    DB_PATH = r"D:\Satyam\personal_learning\AI GENERALIST COURSES\AI Agents and Agentic Workflow using CrewAI\projects\ai_dental_receptionist_voice_assistant\db\db_files\dental_care_clinic.db"
+    DB_PATH = r".\db\db_files\dental_care_clinic.db"
 
     if not os.path.exists(DB_PATH):
         print(f"❌ Database file not found at: {DB_PATH}")
@@ -125,3 +125,4 @@ if __name__=="__main__":
     print(results)
 
     
+
