@@ -56,7 +56,7 @@ Here’s a quick look at the interface:
 1. **Install dependencies** 🧩  
    ```bash
    pip install -r requirements.txt
-````
+   ```
 
 2. **Run the app** 🚀
 
@@ -77,5 +77,6 @@ That’s it! Your Dental AI Receptionist is ready to welcome patients — any ti
 ---
 
 ### 🧑‍💻 Built with ❤️ by Satyam Chillal
+
 
 > “Bringing smiles to tech and teeth alike.” 😁
