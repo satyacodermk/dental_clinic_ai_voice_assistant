@@ -5,7 +5,7 @@ from datetime import datetime
 # -------------------------------------------------------------------
 # Database configuration
 # -------------------------------------------------------------------
-BASE_DIR = r".\dental_clinic_ai_voice_assistant\db"
+BASE_DIR = r".\db"
 DB_FOLDER = os.path.join(BASE_DIR, "db_files")
 DB_PATH = os.path.join(DB_FOLDER, "dental_care_clinic.db")
 
